@@ -32,9 +32,9 @@ collection = [1, 2, 3, 3, 4, 5, 5, 6]
 unique_elements = find_unique_elements(collection)
 print("Unique Elements:", unique_elements)
 ```
-### Challenge Problem Set Manipulation
-## There are several intentional errors for the set manipulation, go through and fix them based off of what was learned in this module.
-# There are 3 errors within the program.
+## Challenge Problem Set Manipulation
+### There are several intentional errors for the set manipulation, go through and fix them based off of what was learned in this module.
+### There are 3 errors within the program.
 
 ```python
 def add_element(s, element):

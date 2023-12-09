@@ -58,9 +58,9 @@ print("\nExecuting Tasks:")
 scheduler.execute_tasks()
 
 ```
-### Challenge Problem Message Queue
-## There are several intentional errors for the message queue, go through and fix them based off of what was learned in this module.
-# There are 4 errors within the program.
+## Challenge Problem Message Queue
+### There are several intentional errors for the message queue, go through and fix them based off of what was learned in this module.
+### There are 4 errors within the program.
 ```python
 from queue import Queue
 

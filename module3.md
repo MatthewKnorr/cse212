@@ -59,9 +59,9 @@ for key in keys:
 
 print("In-order Traversal:", in_order_traversal(tree_root))
 ```
-### Challenge Binary Search Tree Manipulation
-## There are several intentional errors for the set manipulation, go through and fix them based off of what was learned in this module.
-# Errors 1&2 contain 2 fixes each. Error's 3&4 contain 1 fix each within the program.
+## Challenge Binary Search Tree Manipulation
+### There are several intentional errors for the set manipulation, go through and fix them based off of what was learned in this module.
+### Errors 1&2 contain 2 fixes each. Error's 3&4 contain 1 fix each within the program.
 ```python 
 def add_node(root, key):
     if root is None:
