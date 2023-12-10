@@ -169,7 +169,7 @@ message_queue.send_message("Goodbye!")
 print("\nReceived Messages:")
 message_queue.receive_messages()
 ```
-# If you are having difficulties moving forward feel free to look through the solutions file to assist.
+## If you are having difficulties moving forward feel free to look through the solutions file to assist.
 
 ### Now, let's reflect on the key takeaways:
 

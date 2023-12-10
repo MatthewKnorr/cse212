@@ -110,7 +110,7 @@ add_element(my_set, 6)
 remove_element(my_set, 3)
 check_element(my_set, 2)    
 ```
-# If you are having difficulties moving forward feel free to look through the solutions file to assist.
+## If you are having difficulties moving forward feel free to look through the solutions file to assist.
 
 ### Now, let's reflect on the key takeaways:
 

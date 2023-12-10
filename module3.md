@@ -82,7 +82,7 @@ for key in keys:
 
 print("Incorrect In-order Traversal:", traverse_tree_in_order(tree_root))
 ```
-# If you are having difficulties moving forward feel free to look through the solutions file to assist.
+## If you are having difficulties moving forward feel free to look through the solutions file to assist.
 
 ### Now, let's reflect on the key takeaways:
 
