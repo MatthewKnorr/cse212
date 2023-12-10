@@ -84,7 +84,7 @@ print("Incorrect In-order Traversal:", traverse_tree_in_order(tree_root))
 ```
 ### If you are having difficulties moving forward feel free to look through the solutions file to assist.
 
-### Now, let's reflect on the key takeaways:
+# Now, let's reflect on the key takeaways:
 
 1. **Hierarchical Mastery**: Trees, with their hierarchical organization, provide an unparalleled way to represent relationships between elements. Understanding the structure and dynamics of trees enhances your ability to model and solve complex problems.
 

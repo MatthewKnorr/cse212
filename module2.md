@@ -112,7 +112,7 @@ check_element(my_set, 2)
 ```
 ### If you are having difficulties moving forward feel free to look through the solutions file to assist.
 
-### Now, let's reflect on the key takeaways:
+# Now, let's reflect on the key takeaways:
 
 1. **Uniqueness and Efficiency**: Sets offer a powerful solution when dealing with distinct elements. The constant time complexity of fundamental operations, such as adding, removing, and checking for element existence, makes sets highly efficient for managing unique collections.
 

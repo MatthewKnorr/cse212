@@ -171,7 +171,7 @@ message_queue.receive_messages()
 ```
 ### If you are having difficulties moving forward feel free to look through the solutions file to assist.
 
-### Now, let's reflect on the key takeaways:
+# Now, let's reflect on the key takeaways:
 
 1.  **Sequential Task Processing**: Queues serve as a robust tool for the organized execution of tasks in a sequential order, ensuring fairness and efficiency in task management.
 
