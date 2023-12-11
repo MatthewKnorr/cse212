@@ -16,11 +16,11 @@ This efficiency profile positions queues as highly efficient tools for scenarios
 
 ### Problems Solved with a Queue
 Queues, with their inherent structure and adherence to the First-In-First-Out (FIFO) principle, emerge as versatile solutions to various computational challenges. Their applications extend far beyond mere data organization, finding relevance in diverse problem-solving scenarios.
-1. **Task Scheduling**:
 
+**Task Scheduling**:
 Queues provide an elegant solution to the intricacies of task scheduling. In scenarios where tasks must be executed in a specific order or sequence, the FIFO nature of queues aligns seamlessly with the requirements. Tasks enter the queue in the order they are received and are processed in a disciplined, sequential manner, ensuring an organized and efficient execution flow.
-2. **Breadth-First Search Algorithms**:
 
+**Breadth-First Search Algorithms**:
 Queues play a pivotal role in the implementation of breadth-first search (BFS) algorithms. The nature of BFS involves exploring a graph or tree level by level, and queues facilitate this exploration seamlessly. Nodes are enqueued as they are discovered and processed in the order they were added, enabling the systematic traversal of the structure and contributing to the efficacy of BFS algorithms.
 
 In essence, the versatility of queues shines through in their ability to address challenges related to ordered task execution and systematic exploration of data structures. These applications underscore the adaptability and effectiveness of queues, making them indispensable tools in the toolkit of a computational problem solver.
